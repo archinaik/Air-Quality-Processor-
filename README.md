@@ -13,14 +13,10 @@ This is a Python project that downloads and processes air quality data for multi
   - Number of rows
   - Max and min values for each pollutant
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Python 3.13
 - pandas
 - Ruff (for linting)
 - unit testing
 
-## 🧪 How to Run
-
-Make sure Python is installed and run:
-python3 main.py
